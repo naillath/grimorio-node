@@ -1,0 +1,1 @@
+console.log("Welcome to Boss Challenge 01!");
