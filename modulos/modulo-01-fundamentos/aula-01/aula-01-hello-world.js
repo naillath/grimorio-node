@@ -1,1 +1,1 @@
-console.log("Hello, World!"); // Clássico "Hello, World!" para testar o ambiente.
+console.log('Hello, World!'); // Clássico "Hello, World!" para testar o ambiente.
