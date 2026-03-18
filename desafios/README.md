@@ -1,14 +1,31 @@
-# ⚔️ Desafios — Módulo 01: Fundamentos da Linguagem
+# Esta seção reúne os **desafios práticos** do Grimório Node.
 
-Esta seção contém **10 desafios práticos** referentes ao Módulo 01 do Grimório Node.
+Serão desenvolvidos **10 desafios para cada módulo**, com o objetivo de consolidar o conhecimento de forma progressiva e aplicada.
 
-O objetivo desses exercícios é consolidar os fundamentos da linguagem JavaScript estudados durante as aulas, aplicando conceitos como:
+---
 
-- Variáveis (`const`, `let`, `var`)
-- Tipos de dados
-- Arrays
-- Objetos
-- Estruturas básicas da linguagem
+## 🧪 Módulos de Desafios
+
+⚒️ **Módulo 1 — Fundamentos da Linguagem**  
+🧠 **Módulo 2 — Controle de Fluxo**  
+⚔️ **Módulo 3 — Funções**  
+📦 **Módulo 4 — Estruturas de Dados**  
+🧰 **Módulo 5 — Ferramentas da Linguagem**  
+🌐 **Módulo 6 — Node na prática**  
+⚡ **Módulo 7 — Assincronismo**  
+🛡️ **Módulo 8 — Robustez**  
+🏗️ **Módulo 9 — Programação Orientada a Objetos**  
+🧩 **Módulo 10 — Utilidades modernas**  
+
+---
+
+## 🧠 Módulo Especial
+
+🧠 **Arrays**
+
+---
+
+Os desafios acompanham a evolução dos estudos e são pensados para reforçar a prática com cenários aplicados (muitos deles no estilo RPG ⚔️).
 
 ---
 
@@ -41,7 +58,3 @@ Cada desafio foi pensado para aumentar gradualmente o nível de dificuldade:
 ## 🧠 Filosofia do Grimório
 
 Assim como um grimório de magia registra feitiços e conhecimentos, este repositório documenta a evolução no aprendizado de **JavaScript e Node.js**, transformando cada exercício resolvido em mais experiência prática.
-
----
-
-Boa sorte nos desafios. ⚔️
