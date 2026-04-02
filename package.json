@@ -2,10 +2,12 @@
   "name": "grimorio-node",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "aula-18": "node modulos/modulo-06-node-na-pratica/aula-18/index.js"
   },
   "keywords": [],
   "author": "",
