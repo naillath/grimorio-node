@@ -20,10 +20,20 @@ function damageHero(name, damage) {
 
 console.log(damageHero("Naillath", 25));
 
-const damage = (name, damage) => {
-    return `${name} avança contra o inimigo e desfere um golpe causando ${damage} de dano.`;
+// const damage = (name, damage) => {
+//     return `${name} avança contra o inimigo e desfere um golpe causando ${damage} de dano.`;
+// };
+
+// const attackHero = (name, damage) => `${name} avança contra o inimigo e desfere um golpe causando ${damage} de dano.`; // modelo mais curto de arrow function
+
+// console.log(attackHero("Naillath", 25));
+
+const attackHero = (name, damage) => {
+    if (!name || typeof damage !== "number") {
+        return "Ataque inválido.";
+    }
+
+    return `${name} avança contra o inimigo e desfere um golpe causando ${damage} de dano.`
 };
 
-// const damage = (name, damage) => return `${name} avança contra o inimigo e desfere um golpe causando ${damage} de dano.`; // modelo mais curto de arrow function
-
-console.log(damage("Naillath", 25));
+console.log(attackHero("Naillath", 25));
