@@ -17,3 +17,27 @@
 
 // Modularização com funções
 // Organização mental
+
+
+
+
+function attack(damage) {
+    return damage;
+}
+
+function defend() {
+    // return `${} bloqueia totalmente o ataque!`
+}
+
+function calculateReimainigLife(hp, damage, action) {
+    let finalHp = hp;
+    if (action === attack) {
+       finalHp = hp - damage;
+        return  finalHp;
+    } else if (action === defend) {
+        return finalHp;
+    }
+
+}
+
+// `${attacker} desfere o ataque contra ${target}, causando ${damage} de dano!`;
